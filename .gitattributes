@@ -1,0 +1,3 @@
+# Keep historical documents byte-for-byte identical to their sources.
+exhibits/**/*.txt -text
+exhibits/**/*.lisp -text
